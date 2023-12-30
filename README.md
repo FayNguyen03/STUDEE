@@ -19,10 +19,6 @@ git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://csgit.stolaf.edu/sd/f23/studee/-/settings/integrations)
-
 ## Collaborate with your team
 
 - [X] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
@@ -33,11 +29,11 @@ git push -uf origin main
 **STUDEE**
 
 ## Description
-This is a networking platform for the students from around the world. You can find your tutors, student, or study buddies from this app! Try it now!
+This is a networking platform for the students from around the world. You can find your tutors, students, or study buddies from this app! Try it now!
 
 ## Visuals
-![First Layout](First Page.png)
-![Dark Mode](Dark Mode.png)
+<img src='First Page.png' title='Light Mode' width=''/>
+<img src='Dark Mode.png' title='Dark Mode' width=''/>
 
 ## Roadmap
 If you have ideas for releases in the future, it is a good idea to list them in the README.
